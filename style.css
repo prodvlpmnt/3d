@@ -14,9 +14,9 @@ body {
     font-family: 'Roboto', sans-serif;
 }
 
-body:hover {
-    border-image:url(https://3dout.xyz/stat)
-}
+/*body:hover {
+    border-image:url()
+}*/
 
 a {
     text-decoration: none;
